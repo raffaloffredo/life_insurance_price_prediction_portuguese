@@ -1,4 +1,4 @@
-# Previsão de custo de Seguro de Vida
+# Previsão de Custo de Seguro de Vida
 
 <p align="center">
 :warning: :warning: :warning: EM CONSTRUÇÃO :warning: :warning: :warning:
