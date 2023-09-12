@@ -9,7 +9,7 @@
 <br/>
 
 ## Sobre o projeto
-Esse projeto teve o objetivo central o desenvolvimento um algoritmo capaz de prever o custo do seguro de saúde com o uso de _machine-learning_. Foram utilizadas as bibliotecas _Pandas Profiling_ e _PyCaret_ que auxiliam a construção de modelos, com o intuito de obter uma resposta da melhor e mais ágil forma possível. Com a geração de 19 modelos com diferentes algoritmos de regressão, que foram avaliados de acordo com o valor obtido no Coeficiente de Determinação, o melhor modelo foi criado pelo _Gradient Boosting Regressor_.
+Esse projeto teve como objetivo central o desenvolvimento de um algoritmo capaz de prever o custo do seguro de saúde com o uso de _machine-learning_. Foram utilizadas as bibliotecas _Pandas Profiling_ e _PyCaret_ que auxiliaram a construção de modelos, com o intuito de obter uma resposta da melhor e mais ágil forma possível. Com a geração de 19 modelos, com diferentes algoritmos de regressão, e que foram avaliados de acordo com o valor obtido no Coeficiente de Determinação, se chegou no melhor modelo criado pelo _Gradient Boosting Regressor_.
 
 * **[Projeto na íntegra](https://github.com/raffaloffredo/life_insurance_price_prediction_portuguese/blob/main/%5BLoffredoDS%5D_Previs%C3%A3o_de_custo_de_Seguro_de_Vida.ipynb)**
 * **[Artigo](https://medium.com/@loffredo.ds/como-utilizar-pandas-profiling-e-pycaret-para-prever-pre%C3%A7os-de-custo-de-seguro-de-vida-8a1183d01048)**
